@@ -1,0 +1,1 @@
+console.log('Pamai JS Loaded');
