@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #333;
+}
+header {
+  background: #000;
+  color: white;
+  padding: 2em;
+  text-align: center;
+}
+.services {
+  padding: 2em;
+}
+.service-list {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+}
+.service img {
+  width: 200px;
+  height: auto;
+  display: block;
+}
+footer {
+  background: #000;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
