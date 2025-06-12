@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://pamai-website.vercel.app/sitemap.xml
